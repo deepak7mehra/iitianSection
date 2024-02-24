@@ -1,0 +1,29 @@
+/* Card.module.css */
+.animate {
+    perspective: 150rem;
+    
+  }
+  
+  .card__side {
+    transition: all 1s;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+  }
+  
+  .card__sideBack {
+    background-image: linear-gradient(to right,#614385 , #516395);
+    transform: rotateY(180deg);
+  }
+  
+  .animate:hover .card__sideFront {
+    transform: rotateY(-180deg);
+    translate: 20px;
+  }
+  
+  .animate:hover .card__sideBack {
+    transform: rotateY(0deg);
+    translate: 20px;
+
+  }
+  
+
