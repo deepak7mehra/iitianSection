@@ -62,7 +62,7 @@ function front(){
                     <img src="/images/github.png" alt="an image" width="30" />
                 </div>
                 <div>
-                <a rel="stylesheet" href="https://github.com/deepak7mehra" target='_blank' > 
+                <a rel="stylesheet" href="https://www.linkedin.com/in/deepak-mehra-9015882a6/" target='_blank' > 
                     <img src="/images/Linkedin.png" alt="an image" width="30" />
                     </a>
                    
@@ -91,7 +91,7 @@ function back(){
                     </a>
                 </div>
                 <div>
-                <a rel="stylesheet" href="https://github.com/deepak7mehra" target='_blank' > 
+                <a rel="stylesheet" href="https://www.linkedin.com/in/deepak-mehra-9015882a6/" target='_blank' > 
                     <img src="/images/Linkedin.png" alt="an image" width="30" />
                     </a>
                    
